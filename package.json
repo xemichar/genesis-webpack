@@ -5,7 +5,7 @@
   "main": "src/index.html",
   "scripts": {
     "dev": "./node_modules/.bin/webpack-dev-server --open",
-    "prod": "./node_modules/.bin/webpack -p "
+    "prod": "./node_modules/.bin/webpack -p"
   },
   "repository": {
     "type": "git",
