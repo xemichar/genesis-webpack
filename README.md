@@ -2,7 +2,7 @@
 My kickstarter for developing apps w/ webpack :fire:
 
 ```
-git clone https://github.com/xemichar/genesis-webpack.git
+git clone https://github.com/vuksamardzic/genesis-webpack.git
 cd genesis-webpack
 npm i
 ```
